@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'GCN',
-  siteTitleAlt: 'GCN Gatsby Starter', // This allows an alternative site title for SEO schema.
+  siteTitle: 'Gatsby Blog with Contentful on Netlify',
+  siteTitleAlt: 'Gatsby Starter', // This allows an alternative site title for SEO schema.
   publisher: 'Publisher named GCN', // Organization name used for SEO schema
   siteDescription:
     'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
