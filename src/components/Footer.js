@@ -75,7 +75,7 @@ const Item = styled.li`
         </a> 
       </Item>
     </List>
-  </Wrapper>*/
-)
+  </Wrapper>
+) */
 
 export default Footer
