@@ -72,10 +72,10 @@ const Item = styled.li`
           rel="noopener noreferrer"
         >
           @ryanwiemer
-        </a> */
+        </a> 
       </Item>
     </List>
-  </Wrapper>
+  </Wrapper>*/
 )
 
 export default Footer
