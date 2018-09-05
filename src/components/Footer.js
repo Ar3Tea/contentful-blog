@@ -41,7 +41,7 @@ const Item = styled.li`
   }
 `
 
-const Footer = () => (
+/* const Footer = () => (
   <Wrapper>
     <List>
       <Item>
@@ -50,7 +50,7 @@ const Footer = () => (
           rel="nofollow noopener noreferrer"
           target="_blank"
         >
-/*          <img
+         <img
             src="https://images.ctfassets.net/fo9twyrwpveg/44baP9Gtm8qE2Umm8CQwQk/c43325463d1cb5db2ef97fca0788ea55/PoweredByContentful_LightBackground.svg"
             style={{ width: '100px' }}
             alt="Powered by Contentful"
