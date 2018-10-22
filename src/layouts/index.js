@@ -31,9 +31,9 @@ const Template = ({ children }) => {
         </div>
       </ThemeProvider>
       {/* Footer placed in seperate ThemeProvider to avoid Rendering an extra DIV in HTML output  */}
-      <ThemeProvider theme={theme}>
+      {/*<ThemeProvider theme={theme}>
         <Footer />
-      </ThemeProvider>
+      </ThemeProvider>*/}
     </div>
   )
 }
